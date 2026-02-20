@@ -185,6 +185,7 @@ def generate_index(article_count: int, issue_count: int) -> None:
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Paged Out! Articles Feed</title>
+    <link rel="alternate" type="application/atom+xml" title="Paged Out! Articles Feed" href="feed.atom">
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{
@@ -242,7 +243,7 @@ def generate_index(article_count: int, issue_count: int) -> None:
             from <a href="{PAGEDOUT_URL}">Paged Out!</a> magazine.
         </p>
         <p>
-            <a href="feed.atom" class="feed-link">Subscribe to Feed</a>
+            <a href="feed.atom" class="feed-link">Subscribe to the Feed</a>
         </p>
         <p>
             Paged Out! is a free experimental technical magazine about programming, hacking, 
