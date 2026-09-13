@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paged Out! Articles Feed</title>
+    <link rel="alternate" type="application/atom+xml" title="Paged Out! Articles Feed" href="feed.atom">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            color: #1a1a2e;
+            background: #f8f9fa;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 600px;
+            background: white;
+            padding: 3rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: rgb(133, 16, 220);
+            margin-bottom: 1.5rem;
+            font-size: 1.75rem;
+        }
+        p { margin-bottom: 1rem; color: #444; }
+        .feed-link {
+            display: inline-block;
+            background: rgb(133, 16, 220);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 500;
+            margin: 1rem 0;
+        }
+        .feed-link:hover { background: #4a2590; }
+        .stats {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 1.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #eee;
+        }
+        a { color: #351c68; }
+        footer { padding: 1rem; }
+    </style>
+</head>
+<body>
+    <main class="container">
+        <h1>Paged Out! Articles Feed</h1>
+        <p>
+            Automatically generated Atom feed with entries for each individual article 
+            from <a href="https://pagedout.institute">Paged Out!</a> magazine.
+        </p>
+        <p>
+            <a href="feed.atom" class="feed-link">Subscribe to the Feed</a>
+        </p>
+        <p>
+            Paged Out! is a free experimental technical magazine about programming, hacking, 
+            security, retrocomputing, electronics, demoscene, and other similar topics.
+        </p>
+        <p>        
+            This feed generator extracts individual articles from issues that have a web viewer available.
+        </p>
+        <div class="stats">
+            Currently tracking <strong>150</strong> articles 
+            from <strong>2</strong> issue(s).
+        </div>
+    </main>
+    <footer>
+        Made by <a href="https://abhinavsarkar.net">Abhinav</a>.
+    </footer>
+</body>
+</html>

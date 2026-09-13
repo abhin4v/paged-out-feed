@@ -1,0 +1,1210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://abhin4v.github.io/paged-out-feed</id>
+  <title>Paged Out! Articles</title>
+  <updated>2026-07-27T13:05:00+00:00</updated>
+  <link href="https://pagedout.institute" rel="alternate"/>
+  <link href="https://abhin4v.github.io/paged-out-feed/feed.atom" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Individual articles from Paged Out! magazine</subtitle>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=6&amp;article=Computiles</id>
+    <title>[Issue #9] Computiles</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=6&amp;article=Computiles"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=8&amp;article=Semantic+Kademlia%3F</id>
+    <title>[Issue #9] Semantic Kademlia?</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=8&amp;article=Semantic+Kademlia%3F"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=9&amp;article=Marbles+%28Nightfall%29</id>
+    <title>[Issue #9] Marbles (Nightfall)</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=9&amp;article=Marbles+%28Nightfall%29"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=10&amp;article=AGI+Corporate</id>
+    <title>[Issue #9] AGI Corporate</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=10&amp;article=AGI+Corporate"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=11&amp;article=CTF+Slopping%3A+The+Autopilot</id>
+    <title>[Issue #9] CTF Slopping: The Autopilot</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=11&amp;article=CTF+Slopping%3A+The+Autopilot"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=12&amp;article=Musical+Chairs+in+VRAM</id>
+    <title>[Issue #9] Musical Chairs in VRAM</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=12&amp;article=Musical+Chairs+in+VRAM"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=13&amp;article=Tag-Guided+Writeup+Augmentation+for+LLM+Crypto+CTF+Solving</id>
+    <title>[Issue #9] Tag-Guided Writeup Augmentation for LLM Crypto CTF Solving</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=13&amp;article=Tag-Guided+Writeup+Augmentation+for+LLM+Crypto+CTF+Solving"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=14&amp;article=The+cuBLAS+transposition+trick</id>
+    <title>[Issue #9] The cuBLAS transposition trick</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=14&amp;article=The+cuBLAS+transposition+trick"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=15&amp;article=Trust+Me%2C+I+am+Compiled</id>
+    <title>[Issue #9] Trust Me, I am Compiled</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=15&amp;article=Trust+Me%2C+I+am+Compiled"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=17&amp;article=Mark+Boardman+Portfolio+Work+1</id>
+    <title>[Issue #9] Mark Boardman Portfolio Work 1</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=17&amp;article=Mark+Boardman+Portfolio+Work+1"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=18&amp;article=About+Anamorphic+Cryptography</id>
+    <title>[Issue #9] About Anamorphic Cryptography</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=18&amp;article=About+Anamorphic+Cryptography"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=19&amp;article=An+off-line+backup+of+your+cryptographic+key+using+playing+cards</id>
+    <title>[Issue #9] An off-line backup of your cryptographic key using playing cards</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=19&amp;article=An+off-line+backup+of+your+cryptographic+key+using+playing+cards"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=20&amp;article=Mark+Boardman+Portfolio+Work+2</id>
+    <title>[Issue #9] Mark Boardman Portfolio Work 2</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=20&amp;article=Mark+Boardman+Portfolio+Work+2"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=21&amp;article=Your+Car+Is+Watching+You%3A+How+Camera+Pixels+Cross+Meters+of+Cable+Into+Linux</id>
+    <title>[Issue #9] Your Car Is Watching You: How Camera Pixels Cross Meters of Cable Into Linux</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=21&amp;article=Your+Car+Is+Watching+You%3A+How+Camera+Pixels+Cross+Meters+of+Cable+Into+Linux"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=22&amp;article=Mark+Boardman+Portfolio+Work+3</id>
+    <title>[Issue #9] Mark Boardman Portfolio Work 3</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=22&amp;article=Mark+Boardman+Portfolio+Work+3"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=23&amp;article=Glitching+DEFLATE+without+breaking+PNG</id>
+    <title>[Issue #9] Glitching DEFLATE without breaking PNG</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=23&amp;article=Glitching+DEFLATE+without+breaking+PNG"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=24&amp;article=Oranges+Logo</id>
+    <title>[Issue #9] Oranges Logo</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=24&amp;article=Oranges+Logo"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=27&amp;article=Go+Get+a+Garden+Server</id>
+    <title>[Issue #9] Go Get a Garden Server</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=27&amp;article=Go+Get+a+Garden+Server"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=28&amp;article=Hiding+binary+in+CT+scans+to+understand+how+information+moves</id>
+    <title>[Issue #9] Hiding binary in CT scans to understand how information moves</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=28&amp;article=Hiding+binary+in+CT+scans+to+understand+how+information+moves"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=29&amp;article=LLMs+are+Killing+IT+Careers+...+but+not+the+way+everyone+thinks</id>
+    <title>[Issue #9] LLMs are Killing IT Careers ... but not the way everyone thinks</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=29&amp;article=LLMs+are+Killing+IT+Careers+...+but+not+the+way+everyone+thinks"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=30&amp;article=How+to+Acquire+a+Forensic+Image</id>
+    <title>[Issue #9] How to Acquire a Forensic Image</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=30&amp;article=How+to+Acquire+a+Forensic+Image"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=31&amp;article=Skynet</id>
+    <title>[Issue #9] Skynet</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=31&amp;article=Skynet"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=32&amp;article=Secret+of+Ultimate+Legendary+Scripting+Language+Unleashed</id>
+    <title>[Issue #9] Secret of Ultimate Legendary Scripting Language Unleashed</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=32&amp;article=Secret+of+Ultimate+Legendary+Scripting+Language+Unleashed"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=33&amp;article=Sphere</id>
+    <title>[Issue #9] Sphere</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=33&amp;article=Sphere"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=35&amp;article=Edge+AI+on+old+mining+silicon%3A+LLMs+and+Diffusion+on+16+GB+AMD+APU</id>
+    <title>[Issue #9] Edge AI on old mining silicon: LLMs and Diffusion on 16 GB AMD APU</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=35&amp;article=Edge+AI+on+old+mining+silicon%3A+LLMs+and+Diffusion+on+16+GB+AMD+APU"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=36&amp;article=Vampire</id>
+    <title>[Issue #9] Vampire</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=36&amp;article=Vampire"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=37&amp;article=The+Subpixel+Zoo</id>
+    <title>[Issue #9] The Subpixel Zoo</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=37&amp;article=The+Subpixel+Zoo"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=38&amp;article=Computer-assisted+mathematical+proofs+before+AI-era</id>
+    <title>[Issue #9] Computer-assisted mathematical proofs before AI-era</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=38&amp;article=Computer-assisted+mathematical+proofs+before+AI-era"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=39&amp;article=The+Curious+Case+of+Michael+Guidry</id>
+    <title>[Issue #9] The Curious Case of Michael Guidry</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=39&amp;article=The+Curious+Case+of+Michael+Guidry"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=40&amp;article=Empty+capabilities+%28not+really%29</id>
+    <title>[Issue #9] Empty capabilities (not really)</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=40&amp;article=Empty+capabilities+%28not+really%29"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=41&amp;article=An+Unexpected+Computer</id>
+    <title>[Issue #9] An Unexpected Computer</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=41&amp;article=An+Unexpected+Computer"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=42&amp;article=Baby+steps+in+C</id>
+    <title>[Issue #9] Baby steps in C</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=42&amp;article=Baby+steps+in+C"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=44&amp;article=From+17+to+8%3A+Backporting+Sealed+Interfaces+in+Java</id>
+    <title>[Issue #9] From 17 to 8: Backporting Sealed Interfaces in Java</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=44&amp;article=From+17+to+8%3A+Backporting+Sealed+Interfaces+in+Java"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=45&amp;article=Linux+in+a+Pixel+Shader</id>
+    <title>[Issue #9] Linux in a Pixel Shader</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=45&amp;article=Linux+in+a+Pixel+Shader"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=46&amp;article=Plain-Changed+Out%21+%28An+Approach+to+Permutation+Generation%29</id>
+    <title>[Issue #9] Plain-Changed Out! (An Approach to Permutation Generation)</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=46&amp;article=Plain-Changed+Out%21+%28An+Approach+to+Permutation+Generation%29"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=47&amp;article=Poke+It+with+a+Stick.</id>
+    <title>[Issue #9] Poke It with a Stick.</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=47&amp;article=Poke+It+with+a+Stick."/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=48&amp;article=Poor+Man%27s+Recursion</id>
+    <title>[Issue #9] Poor Man's Recursion</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=48&amp;article=Poor+Man%27s+Recursion"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=49&amp;article=Process+Synchronization+in+Concurrent+Logic+Languages</id>
+    <title>[Issue #9] Process Synchronization in Concurrent Logic Languages</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=49&amp;article=Process+Synchronization+in+Concurrent+Logic+Languages"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=50&amp;article=Programming+Pearl%3A+Sampling+Unique+%28x%2Cy%29+Pairs</id>
+    <title>[Issue #9] Programming Pearl: Sampling Unique (x,y) Pairs</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=50&amp;article=Programming+Pearl%3A+Sampling+Unique+%28x%2Cy%29+Pairs"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=51&amp;article=Say+neigh+to+the+borrow+checker</id>
+    <title>[Issue #9] Say neigh to the borrow checker</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=51&amp;article=Say+neigh+to+the+borrow+checker"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=53&amp;article=Splitting+hairs+on+an+empty+string</id>
+    <title>[Issue #9] Splitting hairs on an empty string</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=53&amp;article=Splitting+hairs+on+an+empty+string"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=54&amp;article=The+Hamburger+Database+Design+Pattern</id>
+    <title>[Issue #9] The Hamburger Database Design Pattern</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=54&amp;article=The+Hamburger+Database+Design+Pattern"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=55&amp;article=Using+llama-index+for+a+RAG+with+your+own+emails+%28for+privacy%29</id>
+    <title>[Issue #9] Using llama-index for a RAG with your own emails (for privacy)</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=55&amp;article=Using+llama-index+for+a+RAG+with+your+own+emails+%28for+privacy%29"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=56&amp;article=When+Passing+Wins</id>
+    <title>[Issue #9] When Passing Wins</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=56&amp;article=When+Passing+Wins"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=57&amp;article=Heart+Dash</id>
+    <title>[Issue #9] Heart Dash</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=57&amp;article=Heart+Dash"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=58&amp;article=Evolution+of+x86+Opcode+Entropy</id>
+    <title>[Issue #9] Evolution of x86 Opcode Entropy</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=58&amp;article=Evolution+of+x86+Opcode+Entropy"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=59&amp;article=Feeding+Frenzy+2%3A+unpacking+a+self-checksumming+fish+tank</id>
+    <title>[Issue #9] Feeding Frenzy 2: unpacking a self-checksumming fish tank</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=59&amp;article=Feeding+Frenzy+2%3A+unpacking+a+self-checksumming+fish+tank"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=60&amp;article=Finding+TLS+secrets+in+memory</id>
+    <title>[Issue #9] Finding TLS secrets in memory</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=60&amp;article=Finding+TLS+secrets+in+memory"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=62&amp;article=Hex+editing+with+dz6</id>
+    <title>[Issue #9] Hex editing with dz6</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=62&amp;article=Hex+editing+with+dz6"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=63&amp;article=Peeking+inside+a+FLIRT+signature</id>
+    <title>[Issue #9] Peeking inside a FLIRT signature</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=63&amp;article=Peeking+inside+a+FLIRT+signature"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=64&amp;article=Residue+Number+System+for+Obfuscation</id>
+    <title>[Issue #9] Residue Number System for Obfuscation</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=64&amp;article=Residue+Number+System+for+Obfuscation"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=65&amp;article=Reviving+The+Symbols+with+Ghidra%3A+Reconstructing+Missing+Library+Types+and+Context</id>
+    <title>[Issue #9] Reviving The Symbols with Ghidra: Reconstructing Missing Library Types and Context</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=65&amp;article=Reviving+The+Symbols+with+Ghidra%3A+Reconstructing+Missing+Library+Types+and+Context"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=66&amp;article=Tiny+Tracer+for+x86</id>
+    <title>[Issue #9] Tiny Tracer for x86</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=66&amp;article=Tiny+Tracer+for+x86"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=67&amp;article=Turbo+Pascal+7+Overlays</id>
+    <title>[Issue #9] Turbo Pascal 7 Overlays</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=67&amp;article=Turbo+Pascal+7+Overlays"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=68&amp;article=Under+the+microscope%3A+Medal+of+Honor%3A+Underground+%28PlayStation%29</id>
+    <title>[Issue #9] Under the microscope: Medal of Honor: Underground (PlayStation)</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=68&amp;article=Under+the+microscope%3A+Medal+of+Honor%3A+Underground+%28PlayStation%29"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=69&amp;article=A+Fragile+Backbone+of+the+CTF+World</id>
+    <title>[Issue #9] A Fragile Backbone of the CTF World</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=69&amp;article=A+Fragile+Backbone+of+the+CTF+World"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=71&amp;article=Better+detections+%E2%80%94+scan+operator+in+KQL</id>
+    <title>[Issue #9] Better detections — scan operator in KQL</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=71&amp;article=Better+detections+%E2%80%94+scan+operator+in+KQL"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=72&amp;article=Bypassing+User+Isolation+on+Android+with+Screen+Reader</id>
+    <title>[Issue #9] Bypassing User Isolation on Android with Screen Reader</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=72&amp;article=Bypassing+User+Isolation+on+Android+with+Screen+Reader"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=73&amp;article=CTF+Archaeology%3A+Keep+Learning</id>
+    <title>[Issue #9] CTF Archaeology: Keep Learning</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=73&amp;article=CTF+Archaeology%3A+Keep+Learning"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=74&amp;article=CVE-2025-66019%3A+LZW+Decompression+DoS+Vulnerability+in+pypdf+Library</id>
+    <title>[Issue #9] CVE-2025-66019: LZW Decompression DoS Vulnerability in pypdf Library</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=74&amp;article=CVE-2025-66019%3A+LZW+Decompression+DoS+Vulnerability+in+pypdf+Library"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=75&amp;article=ClickBreakFix</id>
+    <title>[Issue #9] ClickBreakFix</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=75&amp;article=ClickBreakFix"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=76&amp;article=Comic+SANS+%231+XSS</id>
+    <title>[Issue #9] Comic SANS #1 XSS</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=76&amp;article=Comic+SANS+%231+XSS"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=77&amp;article=Don%E2%80%99t+let+Facetime+become+literal</id>
+    <title>[Issue #9] Don’t let Facetime become literal</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=77&amp;article=Don%E2%80%99t+let+Facetime+become+literal"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=78&amp;article=EDR+Introspection</id>
+    <title>[Issue #9] EDR Introspection</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=78&amp;article=EDR+Introspection"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=80&amp;article=Hacking+the+Space+Link+Extension+Protocol+</id>
+    <title>[Issue #9] Hacking the Space Link Extension Protocol</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=80&amp;article=Hacking+the+Space+Link+Extension+Protocol+"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=81&amp;article=Interviewing+North+Korean+Agents</id>
+    <title>[Issue #9] Interviewing North Korean Agents</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=81&amp;article=Interviewing+North+Korean+Agents"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=82&amp;article=Patching+the+Wi-Fi+blob%3A+raw+802.11+TX+on+the+ESP32+-+C6+%28RISC-V%29+vs+S3+%28Xtensa%29</id>
+    <title>[Issue #9] Patching the Wi-Fi blob: raw 802.11 TX on the ESP32 - C6 (RISC-V) vs S3 (Xtensa)</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=82&amp;article=Patching+the+Wi-Fi+blob%3A+raw+802.11+TX+on+the+ESP32+-+C6+%28RISC-V%29+vs+S3+%28Xtensa%29"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=83&amp;article=Reproducible+Detection+Testing+for+RedTeam+Artifacts</id>
+    <title>[Issue #9] Reproducible Detection Testing for RedTeam Artifacts</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=83&amp;article=Reproducible+Detection+Testing+for+RedTeam+Artifacts"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=84&amp;article=The+Ghost+File</id>
+    <title>[Issue #9] The Ghost File</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=84&amp;article=The+Ghost+File"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=85&amp;article=The+%5Cr+That+Wasn%27t+Commented+Out</id>
+    <title>[Issue #9] The \r That Wasn't Commented Out</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=85&amp;article=The+%5Cr+That+Wasn%27t+Commented+Out"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=86&amp;article=When+the+host+stops+mattering%3A+Offensive+security+in+immutable+systems</id>
+    <title>[Issue #9] When the host stops mattering: Offensive security in immutable systems</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=86&amp;article=When+the+host+stops+mattering%3A+Offensive+security+in+immutable+systems"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=87&amp;article=badassMode%2C+guest%2C+U.htm+-+silly+BAS+bugs</id>
+    <title>[Issue #9] badassMode, guest, U.htm - silly BAS bugs</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=87&amp;article=badassMode%2C+guest%2C+U.htm+-+silly+BAS+bugs"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=9&amp;page=89&amp;article=sandboxec%3A+Practical+command+sandboxing+for+AI+agents</id>
+    <title>[Issue #9] sandboxec: Practical command sandboxing for AI agents</title>
+    <updated>2026-07-27T13:05:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=9&amp;page=89&amp;article=sandboxec%3A+Practical+command+sandboxing+for+AI+agents"/>
+    <summary>Article from Paged Out! Issue #9</summary>
+    <published>2026-07-27T13:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=5&amp;article=Breakout+Model+Synthesis</id>
+    <title>[Issue #8] Breakout Model Synthesis</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=5&amp;article=Breakout+Model+Synthesis"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=7&amp;article=Compiler+Education+Deserves+a+Revolution</id>
+    <title>[Issue #8] Compiler Education Deserves a Revolution</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=7&amp;article=Compiler+Education+Deserves+a+Revolution"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=8&amp;article=Solving+0%2F1+Knapsack+problem+with+sliding+window+and+Hirschberg+algorithm</id>
+    <title>[Issue #8] Solving 0/1 Knapsack problem with sliding window and Hirschberg algorithm</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=8&amp;article=Solving+0%2F1+Knapsack+problem+with+sliding+window+and+Hirschberg+algorithm"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=9&amp;article=AgentRoam%3A+Playing+Open-World+Games+with+Multimodal+Models</id>
+    <title>[Issue #8] AgentRoam: Playing Open-World Games with Multimodal Models</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=9&amp;article=AgentRoam%3A+Playing+Open-World+Games+with+Multimodal+Models"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=10&amp;article=And+the+world+moved+on</id>
+    <title>[Issue #8] And the world moved on</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=10&amp;article=And+the+world+moved+on"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=11&amp;article=Class+Struggle</id>
+    <title>[Issue #8] Class Struggle</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=11&amp;article=Class+Struggle"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=12&amp;article=LLM+Starter%3A+a+quick+tour+through+LLM-related+topics+for+hobbyists</id>
+    <title>[Issue #8] LLM Starter: a quick tour through LLM-related topics for hobbyists</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=12&amp;article=LLM+Starter%3A+a+quick+tour+through+LLM-related+topics+for+hobbyists"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=13&amp;article=LLMs+as+Cyber+Threat+Intelligence+Assistant</id>
+    <title>[Issue #8] LLMs as Cyber Threat Intelligence Assistant</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=13&amp;article=LLMs+as+Cyber+Threat+Intelligence+Assistant"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=14&amp;article=Escape+Room</id>
+    <title>[Issue #8] Escape Room</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=14&amp;article=Escape+Room"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=15&amp;article=MITRE+ATT%26CK+%26+GEMINI+CLI</id>
+    <title>[Issue #8] MITRE ATT&amp;CK &amp; GEMINI CLI</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=15&amp;article=MITRE+ATT%26CK+%26+GEMINI+CLI"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=17&amp;article=Honey+Jar</id>
+    <title>[Issue #8] Honey Jar</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=17&amp;article=Honey+Jar"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=18&amp;article=My+To-Do+List+Has+Its+Own+Operator</id>
+    <title>[Issue #8] My To-Do List Has Its Own Operator</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=18&amp;article=My+To-Do+List+Has+Its+Own+Operator"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=19&amp;article=Security+Code+Review%3A+Human+vs.+AI</id>
+    <title>[Issue #8] Security Code Review: Human vs. AI</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=19&amp;article=Security+Code+Review%3A+Human+vs.+AI"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=20&amp;article=hardcore%3A+an+anarchic+protocol+for+multi-agent+computing</id>
+    <title>[Issue #8] hardcore: an anarchic protocol for multi-agent computing</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=20&amp;article=hardcore%3A+an+anarchic+protocol+for+multi-agent+computing"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=21&amp;article=Salar+de+Uyuni</id>
+    <title>[Issue #8] Salar de Uyuni</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=21&amp;article=Salar+de+Uyuni"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=22&amp;article=The+x86+Read+Watchpoint+That+Doesn%E2%80%99t+Exist</id>
+    <title>[Issue #8] The x86 Read Watchpoint That Doesn’t Exist</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=22&amp;article=The+x86+Read+Watchpoint+That+Doesn%E2%80%99t+Exist"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=23&amp;article=Reverse+Engineering+Cryptography+Code</id>
+    <title>[Issue #8] Reverse Engineering Cryptography Code</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=23&amp;article=Reverse+Engineering+Cryptography+Code"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=24&amp;article=An+AWKward+Modem</id>
+    <title>[Issue #8] An AWKward Modem</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=24&amp;article=An+AWKward+Modem"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=25&amp;article=Bits+per+deck%3A+encoding+messages+using+playing+cards</id>
+    <title>[Issue #8] Bits per deck: encoding messages using playing cards</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=25&amp;article=Bits+per+deck%3A+encoding+messages+using+playing+cards"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=27&amp;article=When+Zero%E2%80%91Width+Isn%E2%80%99t+Zero</id>
+    <title>[Issue #8] When Zero‑Width Isn’t Zero</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=27&amp;article=When+Zero%E2%80%91Width+Isn%E2%80%99t+Zero"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=28&amp;article=Eliminating+Serialization+Cost+using+B-trees</id>
+    <title>[Issue #8] Eliminating Serialization Cost using B-trees</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=28&amp;article=Eliminating+Serialization+Cost+using+B-trees"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=29&amp;article=The+IDA+project+file</id>
+    <title>[Issue #8] The IDA project file</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=29&amp;article=The+IDA+project+file"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=30&amp;article=Digital+Hygiene+in+the+IT+World.+Why+We+Should+Spend+More+Time+Offline</id>
+    <title>[Issue #8] Digital Hygiene in the IT World. Why We Should Spend More Time Offline</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=30&amp;article=Digital+Hygiene+in+the+IT+World.+Why+We+Should+Spend+More+Time+Offline"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=31&amp;article=Is+Signal+Free+Software%3F</id>
+    <title>[Issue #8] Is Signal Free Software?</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=31&amp;article=Is+Signal+Free+Software%3F"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=32&amp;article=Plausible+Deniability+Against+Bowser</id>
+    <title>[Issue #8] Plausible Deniability Against Bowser</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=32&amp;article=Plausible+Deniability+Against+Bowser"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=33&amp;article=computers+should+be+liberating</id>
+    <title>[Issue #8] computers should be liberating</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=33&amp;article=computers+should+be+liberating"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=34&amp;article=four+lessons+from+civic+tech</id>
+    <title>[Issue #8] four lessons from civic tech</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=34&amp;article=four+lessons+from+civic+tech"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=35&amp;article=CI%2FCD+Integration+for+Physical+FPGA+Testing+of+a+RISC-V+Core</id>
+    <title>[Issue #8] CI/CD Integration for Physical FPGA Testing of a RISC-V Core</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=35&amp;article=CI%2FCD+Integration+for+Physical+FPGA+Testing+of+a+RISC-V+Core"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=37&amp;article=The+First+Custom+Silicon+Demo+Competition</id>
+    <title>[Issue #8] The First Custom Silicon Demo Competition</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=37&amp;article=The+First+Custom+Silicon+Demo+Competition"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=38&amp;article=XenoboxX+-+Hardware+Sandbox+Toolkit</id>
+    <title>[Issue #8] XenoboxX - Hardware Sandbox Toolkit</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=38&amp;article=XenoboxX+-+Hardware+Sandbox+Toolkit"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=39&amp;article=How+Does+Your+Browser+Pause+Downloads%3F</id>
+    <title>[Issue #8] How Does Your Browser Pause Downloads?</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=39&amp;article=How+Does+Your+Browser+Pause+Downloads%3F"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=40&amp;article=NTP-over-HTTP</id>
+    <title>[Issue #8] NTP-over-HTTP</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=40&amp;article=NTP-over-HTTP"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=41&amp;article=TAILSCALE%3A+easy+open-source+VPN</id>
+    <title>[Issue #8] TAILSCALE: easy open-source VPN</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=41&amp;article=TAILSCALE%3A+easy+open-source+VPN"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=42&amp;article=Spoofing+arbitrary+commandlines+on+Windows</id>
+    <title>[Issue #8] Spoofing arbitrary commandlines on Windows</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=42&amp;article=Spoofing+arbitrary+commandlines+on+Windows"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=43&amp;article=Linux+terminal+emulator+architecture</id>
+    <title>[Issue #8] Linux terminal emulator architecture</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=43&amp;article=Linux+terminal+emulator+architecture"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=44&amp;article=A+Short+Survey+of+Modern+Compiler+Targets</id>
+    <title>[Issue #8] A Short Survey of Modern Compiler Targets</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=44&amp;article=A+Short+Survey+of+Modern+Compiler+Targets"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=45&amp;article=Skull+Study</id>
+    <title>[Issue #8] Skull Study</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=45&amp;article=Skull+Study"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=47&amp;article=Actually%2C+undefined+behaviour+never+happens</id>
+    <title>[Issue #8] Actually, undefined behaviour never happens</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=47&amp;article=Actually%2C+undefined+behaviour+never+happens"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=48&amp;article=Amber+-+Write+easily+Bash+with+a+transpiler</id>
+    <title>[Issue #8] Amber - Write easily Bash with a transpiler</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=48&amp;article=Amber+-+Write+easily+Bash+with+a+transpiler"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=49&amp;article=Arbitrary-Length+Full+Adder+%E2%80%A6+in+sed</id>
+    <title>[Issue #8] Arbitrary-Length Full Adder … in sed</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=49&amp;article=Arbitrary-Length+Full+Adder+%E2%80%A6+in+sed"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=50&amp;article=How+many+options+fit+into+a+boolean%3F</id>
+    <title>[Issue #8] How many options fit into a boolean?</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=50&amp;article=How+many+options+fit+into+a+boolean%3F"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=51&amp;article=How+to+make+a+program+if+you+leave+your+programming+language+at+home</id>
+    <title>[Issue #8] How to make a program if you leave your programming language at home</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=51&amp;article=How+to+make+a+program+if+you+leave+your+programming+language+at+home"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=52&amp;article=Integer+comparison+is+not+deterministic</id>
+    <title>[Issue #8] Integer comparison is not deterministic</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=52&amp;article=Integer+comparison+is+not+deterministic"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=53&amp;article=Parse+expressions+like+a+boss</id>
+    <title>[Issue #8] Parse expressions like a boss</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=53&amp;article=Parse+expressions+like+a+boss"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=54&amp;article=Poor+Man%27s+Time+Machine</id>
+    <title>[Issue #8] Poor Man's Time Machine</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=54&amp;article=Poor+Man%27s+Time+Machine"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=55&amp;article=Schr%C3%B6dinger%E2%80%99s+Terminal%3A+The+Gaslighting+Shell</id>
+    <title>[Issue #8] Schrödinger’s Terminal: The Gaslighting Shell</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=55&amp;article=Schr%C3%B6dinger%E2%80%99s+Terminal%3A+The+Gaslighting+Shell"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=57&amp;article=Stop+Guessing+Worker+Counts</id>
+    <title>[Issue #8] Stop Guessing Worker Counts</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=57&amp;article=Stop+Guessing+Worker+Counts"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=58&amp;article=Terminal+Graphics+Protocol+for+fast+embedded+development</id>
+    <title>[Issue #8] Terminal Graphics Protocol for fast embedded development</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=58&amp;article=Terminal+Graphics+Protocol+for+fast+embedded+development"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=59&amp;article=The+Case+of+the+Missing+Megabytes</id>
+    <title>[Issue #8] The Case of the Missing Megabytes</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=59&amp;article=The+Case+of+the+Missing+Megabytes"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=60&amp;article=The+Reproducibility+Charade</id>
+    <title>[Issue #8] The Reproducibility Charade</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=60&amp;article=The+Reproducibility+Charade"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=61&amp;article=The+three+types+of+programming+language+complexity</id>
+    <title>[Issue #8] The three types of programming language complexity</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=61&amp;article=The+three+types+of+programming+language+complexity"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=62&amp;article=Triton+-+A+%28very%29+brief+Introduction</id>
+    <title>[Issue #8] Triton - A (very) brief Introduction</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=62&amp;article=Triton+-+A+%28very%29+brief+Introduction"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=63&amp;article=Trying+to+demo+Python%27s+is</id>
+    <title>[Issue #8] Trying to demo Python's is</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=63&amp;article=Trying+to+demo+Python%27s+is"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=64&amp;article=Using+the+Browser%27s+%3Ccanvas%3E+for+Data+Compression+</id>
+    <title>[Issue #8] Using the Browser's &lt;canvas&gt; for Data Compression</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=64&amp;article=Using+the+Browser%27s+%3Ccanvas%3E+for+Data+Compression+"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=65&amp;article=connect_numbers+game</id>
+    <title>[Issue #8] connect_numbers game</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=65&amp;article=connect_numbers+game"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=67&amp;article=Dreamcast+Repair+-+A+journey+of+a+thousand+parts.</id>
+    <title>[Issue #8] Dreamcast Repair - A journey of a thousand parts.</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=67&amp;article=Dreamcast+Repair+-+A+journey+of+a+thousand+parts."/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=68&amp;article=Forth+locals+and+function+composition</id>
+    <title>[Issue #8] Forth locals and function composition</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=68&amp;article=Forth+locals+and+function+composition"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=69&amp;article=Shared+Folders+in+FreeDOS</id>
+    <title>[Issue #8] Shared Folders in FreeDOS</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=69&amp;article=Shared+Folders+in+FreeDOS"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=70&amp;article=The+logistic+map+in+8-bit</id>
+    <title>[Issue #8] The logistic map in 8-bit</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=70&amp;article=The+logistic+map+in+8-bit"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=71&amp;article=ARM64+Decompilation+with+Prolog</id>
+    <title>[Issue #8] ARM64 Decompilation with Prolog</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=71&amp;article=ARM64+Decompilation+with+Prolog"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=72&amp;article=Hooking+the+Android+Runtime+with+Frida</id>
+    <title>[Issue #8] Hooking the Android Runtime with Frida</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=72&amp;article=Hooking+the+Android+Runtime+with+Frida"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=73&amp;article=Type-Guided+LLVM+Obfuscation</id>
+    <title>[Issue #8] Type-Guided LLVM Obfuscation</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=73&amp;article=Type-Guided+LLVM+Obfuscation"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=74&amp;article=Vibe+Reversing+Python+Bytecode</id>
+    <title>[Issue #8] Vibe Reversing Python Bytecode</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=74&amp;article=Vibe+Reversing+Python+Bytecode"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=75&amp;article=A+Router+Forensics+%26+Ad-Blocker+Diary</id>
+    <title>[Issue #8] A Router Forensics &amp; Ad-Blocker Diary</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=75&amp;article=A+Router+Forensics+%26+Ad-Blocker+Diary"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=77&amp;article=Also+Dumb+CVEs+are+good+CVEs</id>
+    <title>[Issue #8] Also Dumb CVEs are good CVEs</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=77&amp;article=Also+Dumb+CVEs+are+good+CVEs"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=78&amp;article=Data-only+exploit+for+an+out-of-tree+Linux+kernel+crypto+module</id>
+    <title>[Issue #8] Data-only exploit for an out-of-tree Linux kernel crypto module</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=78&amp;article=Data-only+exploit+for+an+out-of-tree+Linux+kernel+crypto+module"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=79&amp;article=ELF-in-a-Python%3A+In-Memory+Loader+with+memfd+%2B+execveat</id>
+    <title>[Issue #8] ELF-in-a-Python: In-Memory Loader with memfd + execveat</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=79&amp;article=ELF-in-a-Python%3A+In-Memory+Loader+with+memfd+%2B+execveat"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=80&amp;article=Empty+Origins+%3D%3D+All+Origins+-+Browser+and+Extensions+at+Stake</id>
+    <title>[Issue #8] Empty Origins == All Origins - Browser and Extensions at Stake</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=80&amp;article=Empty+Origins+%3D%3D+All+Origins+-+Browser+and+Extensions+at+Stake"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=81&amp;article=Inverted+Authentication+logic+-+silly+BAS+bugs</id>
+    <title>[Issue #8] Inverted Authentication logic - silly BAS bugs</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=81&amp;article=Inverted+Authentication+logic+-+silly+BAS+bugs"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=82&amp;article=Killing+Canaries+for+Kirby%3A+Hacking+an+IoT+Camera+to+Play+NES+Games</id>
+    <title>[Issue #8] Killing Canaries for Kirby: Hacking an IoT Camera to Play NES Games</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=82&amp;article=Killing+Canaries+for+Kirby%3A+Hacking+an+IoT+Camera+to+Play+NES+Games"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=83&amp;article=Making+Security+Tools+Accessible</id>
+    <title>[Issue #8] Making Security Tools Accessible</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=83&amp;article=Making+Security+Tools+Accessible"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=84&amp;article=Obfuscate+Data+by+Hiding+It+in+Images</id>
+    <title>[Issue #8] Obfuscate Data by Hiding It in Images</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=84&amp;article=Obfuscate+Data+by+Hiding+It+in+Images"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=85&amp;article=Racing+GitHub+Workflows+For+Tokens</id>
+    <title>[Issue #8] Racing GitHub Workflows For Tokens</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=85&amp;article=Racing+GitHub+Workflows+For+Tokens"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=87&amp;article=Scam+Telegram%3A+uncovering+a+network+of+groups+spreading+crypto+drainers</id>
+    <title>[Issue #8] Scam Telegram: uncovering a network of groups spreading crypto drainers</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=87&amp;article=Scam+Telegram%3A+uncovering+a+network+of+groups+spreading+crypto+drainers"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=88&amp;article=Stack+Clashing+the+GRUB2+Bootloader</id>
+    <title>[Issue #8] Stack Clashing the GRUB2 Bootloader</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=88&amp;article=Stack+Clashing+the+GRUB2+Bootloader"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=89&amp;article=What%27s+the+deal+with+%221%22+in+ptrace%28PTRACE_TRACEME%2C+0%2C+1%2C+NULL%29%3F</id>
+    <title>[Issue #8] What's the deal with "1" in ptrace(PTRACE_TRACEME, 0, 1, NULL)?</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=89&amp;article=What%27s+the+deal+with+%221%22+in+ptrace%28PTRACE_TRACEME%2C+0%2C+1%2C+NULL%29%3F"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://pagedout.institute/webview.php?issue=8&amp;page=90&amp;article=Securing+SSH+keys%3A+ssh-tpm-agent</id>
+    <title>[Issue #8] Securing SSH keys: ssh-tpm-agent</title>
+    <updated>2026-02-19T11:30:00+00:00</updated>
+    <link href="https://pagedout.institute/webview.php?issue=8&amp;page=90&amp;article=Securing+SSH+keys%3A+ssh-tpm-agent"/>
+    <summary>Article from Paged Out! Issue #8</summary>
+    <published>2026-02-19T11:30:00+00:00</published>
+  </entry>
+</feed>
